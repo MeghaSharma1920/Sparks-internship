@@ -12,6 +12,7 @@ Given below is  list of tasks.
 •	Data set used: http://bit.ly/w-data
 
 
+
 2)	Prediction using Unsupervised link
 
 •	Predict the optimum number of clusters and represent it visually
@@ -22,7 +23,9 @@ Given below is  list of tasks.
 
 
 3)	Exploratory data analysis -Retail
-4)	
+
+
+
 •	Level-Beginner
 
 •	Perform EDA on sample superstore dataset
@@ -36,6 +39,8 @@ Given below is  list of tasks.
 •	Tool used -Python and power bi
 
 •	Data set used: sample superstore
+
+
 
 
 4)	Exploratory data analysis -  Terrorism
@@ -55,6 +60,7 @@ Given below is  list of tasks.
 •	Data set used: Global terrorism
 
 
+
 5)	Exploratory data analysis -  sports
 
 •	Level- advanced
@@ -70,6 +76,7 @@ Given below is  list of tasks.
 •	Tool used -Python and power bi
 
 •	Data set used: Indian Premiere League
+
 
 
 6)	Prediction using decision tree algorithm
@@ -100,6 +107,7 @@ Given below is  list of tasks.
 
 •	Data set used :Download historical stocks https://finance.yahoo.com/?guccounter=1  and 
 Download textual data from       https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DPQMQH 
+
 
 
 8)	Timelines analysis :Covid 19
